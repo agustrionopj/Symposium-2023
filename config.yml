@@ -1,28 +1,28 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Symposium 2023
 
 theme: PaperMod
 
 menu:
   main:
     - identifier: program
-      name: Program
+      name: PROGRAM
       url: /
       weight: 10
     - identifier: organizers
-      name: Organizers
+      name: ORGANIZERS
       url: /
       weight: 20
     - identifier: participants
-      name: Participants
+      name: PARTICIPANTS
       url: /
       weight: 30
 
 params:
   label:
-    text: " "
-    icon: logo/logo-OB-color.svg
+    text: "HOME"
+    icon: logo/100th bosscha black.png
     iconHeight: 35
 
 
